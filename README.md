@@ -1,6 +1,3 @@
-# https-github.com-Akakiusz
-Data Analyst | Python | Machine Learning | AI
-
 # Hi, I'm Arkadiusz Jędrzejewski 👋
 
 **Data Analyst** exploring AI, data science, and automation | Building skills for the future of tech
@@ -25,6 +22,11 @@ Data Analyst | Python | Machine Learning | AI
 | [big-data-weather-analytics](https://github.com/Akakiusz/big-data-weather-analytics) | Big data weather pipeline using Hadoop, Spark & Kafka |
 | [fremont-bridge-cyclist-analysis](https://github.com/Akakiusz/fremont-bridge-cyclist-analysis) | Interactive dashboard analyzing cyclist traffic in Seattle |
 | [Visualisation-Techniques-for-AI](https://github.com/Akakiusz/Visualisation-Techniques-for-AI) | Data visualization techniques for AI & ML projects |
+| [big-data-project-ireflix](https://github.com/Akakiusz/big-data-project-ireflix) | Big Data analytical methods using MySQL and Python |
+| [simple-chat-bots](https://github.com/Akakiusz/simple-chat-bots) | Algorithms and data manipulation |
+| [machine-learning-algorithms](https://github.com/Akakiusz/machine-learning-algorithms) | Machine learning algorithms from scratch |
+| [customer-sentiment-analysis](https://github.com/Akakiusz/customer-sentiment-analysis) | Rule-based sentiment analysis using Python & Pandas |
+| [sales-data-analysis-python](https://github.com/Akakiusz/sales-data-analysis-python) | Beginner data analysis project using Python and Pandas |
 
 ---
 

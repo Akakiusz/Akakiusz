@@ -27,6 +27,7 @@
 | [machine-learning-algorithms](https://github.com/Akakiusz/machine-learning-algorithms) | Machine learning algorithms from scratch |
 | [customer-sentiment-analysis](https://github.com/Akakiusz/customer-sentiment-analysis) | Rule-based sentiment analysis using Python & Pandas |
 | [sales-data-analysis-python](https://github.com/Akakiusz/sales-data-analysis-python) | Beginner data analysis project using Python and Pandas |
+| [python-mini-games](https://github.com/Akakiusz/python-mini-games) | Small Python games I'm building and improving while learning |
 
 ---
 

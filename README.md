@@ -33,7 +33,7 @@
 
 ##  GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Akakiusz&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Akakiusz&show_icons=true&theme=dark&cache_seconds=86400)
 
 ---
 

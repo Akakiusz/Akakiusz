@@ -1,10 +1,10 @@
-# Hi, I am Arkadiusz Jędrzejewski 
+# Hi, I'm Arkadiusz Jędrzejewski 👋
 
 **Data Analyst** exploring AI, data science, and automation | Building skills for the future of tech
 
 ---
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-##  Featured Projects
+## 📌 Featured Projects
 
 | Project | Description |
 |---|---|
@@ -27,16 +27,16 @@
 | [machine-learning-algorithms](https://github.com/Akakiusz/machine-learning-algorithms) | Machine learning algorithms from scratch |
 | [customer-sentiment-analysis](https://github.com/Akakiusz/customer-sentiment-analysis) | Rule-based sentiment analysis using Python & Pandas |
 | [sales-data-analysis-python](https://github.com/Akakiusz/sales-data-analysis-python) | Beginner data analysis project using Python and Pandas |
-| [python-mini-games](https://github.com/Akakiusz/python-mini-games) | Small Python games I'm building and improving while learning |
+| [small_python_games](https://github.com/Akakiusz/small_python_games) | Small Python games I'm building and improving while learning — starting with a number guessing game |
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Akakiusz&show_icons=true&theme=dark&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=Akakiusz&show_icons=true&theme=dark)
 
 ---
 
-##  Let's Connect
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ark-jedrzejewsky/)

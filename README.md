@@ -1,10 +1,10 @@
-# Hi, I'm Arkadiusz Jędrzejewski 
+# Hi, I am Arkadiusz Jędrzejewski 
 
 **Data Analyst** exploring AI, data science, and automation | Building skills for the future of tech
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -31,12 +31,12 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Akakiusz&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ark-jedrzejewsky/)

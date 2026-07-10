@@ -1,4 +1,4 @@
-# Hi, I am Arkadiusz Jędrzejewski 
+# Hi, I am Arkadiusz Jędrzejewski 👋
 
 **Data Analyst** exploring AI, data science, and automation | Building skills for the future of tech
 

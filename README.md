@@ -16,7 +16,7 @@
 | [flask-notes-app](https://github.com/Akakiusz/flask-notes-app) | Full-stack notes app (Flask + SQLite) with full CRUD — [live demo](https://flask-notes-app-6b3w.onrender.com) |
 | [big-data-weather-analytics](https://github.com/Akakiusz/big-data-weather-analytics) | Big data weather pipeline using Hadoop, Spark & Kafka |
 | [fremont-bridge-cyclist-analysis](https://github.com/Akakiusz/fremont-bridge-cyclist-analysis) | Interactive dashboard analyzing cyclist traffic in Seattle |
-| [Visualisation-Techniques-for-AI](https://github.com/Akakiusz/Visualisation-Techniques-for-AI) | Data visualization techniques for AI & ML projects |
+| [visualisation-techniques-for-AI](https://github.com/Akakiusz/Visualisation-Techniques-for-AI) | Data visualization techniques for AI & ML projects |
 | [big-data-project-ireflix](https://github.com/Akakiusz/big-data-project-ireflix) | Big Data analytical methods using MySQL and Python |
 | [simple-chat-bots](https://github.com/Akakiusz/simple-chat-bots) | Algorithms and data manipulation |
 | [machine-learning-algorithms](https://github.com/Akakiusz/machine-learning-algorithms) | Machine learning algorithms from scratch |
